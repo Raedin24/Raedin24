@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Raedin24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+ML+Research+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+ML+Researcher;Building+Real-World+AI+Systems;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raedin24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Raedin24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Raedin24/Raedin24/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Raedin24/Raedin24/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
