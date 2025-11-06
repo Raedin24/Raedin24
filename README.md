@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raedin24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<  img src="https://streak-stats.demolab.com/?user=Raedin24&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raedin24&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raedin24&theme=tokyo-night&hide_border=true&custom_title=Raedin24%27s%20Contribution%20Graph" alt="GitHub Activity Graph"/>
 </p>
 
 ---
